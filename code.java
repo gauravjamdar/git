@@ -1,5 +1,6 @@
 class Simple{
 
-	public static void main(string args[]){
-		system.out.println("Hello Gaurav, Welcome to Git's Training")}
+	public static void main(String args[]){
+		System.out.println("Hello Gaurav, Welcome to Git's Training");
+	}
 }
